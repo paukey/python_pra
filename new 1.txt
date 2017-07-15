@@ -1,0 +1,2 @@
+c:\users\pauke\appdata\local\programs\python\python35\python -m py_compile "%f"
+c:\users\pauke\appdata\local\programs\python\python35\python "%f"
